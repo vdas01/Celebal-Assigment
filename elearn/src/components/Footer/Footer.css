@@ -1,0 +1,24 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(132deg, rgb(221, 221, 221) 0.00%, rgb(110, 136, 161) 100.00%);
+    padding: 2px 5px;
+    margin-top: auto;
+}
+#upper{
+    display: flex;
+    gap: 4rem;
+    justify-content: center;
+}
+li{
+    list-style-type: none;
+}
+#middle{
+    display:flex;
+    justify-content: center;
+}
+#middle > ul{
+    display: flex;
+    gap: 2rem;
+    font-weight: bold;
+}

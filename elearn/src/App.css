@@ -1,0 +1,14 @@
+.app{
+  min-height: 100vh;
+}
+#logout_btn{
+   background-color:transparent;
+   color: rgb(255, 255, 255);
+   border: none;
+   margin-right: 10px;
+   background-color: rgb(184, 184, 17);
+   padding: 0px 10px;
+   box-shadow: 5px 9px 5px -6px rgba(0,0,0,0.75);
+   -webkit-box-shadow: 5px 9px 5px -6px rgba(0,0,0,0.75);
+   -moz-box-shadow: 5px 9px 5px -6px rgba(0,0,0,0.75);
+}

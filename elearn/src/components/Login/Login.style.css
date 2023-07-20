@@ -1,0 +1,15 @@
+.login{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+
+    background: linear-gradient(132deg, rgb(241, 242, 11) 0.00%, rgb(248, 161, 27) 100.00%);
+}
+.containerr{
+    width: 30vw;
+    padding: 1rem 1rem;
+    text-align: center;
+}
+.form{
+    text-align: start;
+}

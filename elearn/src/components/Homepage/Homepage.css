@@ -1,0 +1,17 @@
+.home{
+    min-height: 100vh;
+    color: gold;
+    background: url("https://www.hardwarefield.com/wp-content/uploads/2020/08/design-an-attractive-background-for-your-website.jpg");
+}
+.parts{
+    text-align: center;
+    padding: 5px 10px;
+    margin-top: 2rem;
+    
+}
+.parts > h3{
+    font-size: 2rem;
+}
+.parts > p {
+    font-size: 1rem;
+}
